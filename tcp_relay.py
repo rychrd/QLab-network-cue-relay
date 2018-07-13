@@ -1,8 +1,9 @@
 #!/usr/bin/env python3.6
 
 """ 
-A UDP to TCP relay for use with QLabs OSC / Network cue. Forwards commands over TCP connection and allows for
-arbitrary hex commands using '\b' as prefix. Host addresses go in addr_list.txt same folder as script v32
+A UDP to TCP relay for use with 'QLab' by Figure 53s OSC / Network cue. Forwards commands over TCP connection and allows for
+arbitrary hex commands using '\b' as prefix. 
+Device IP addresses and ports go in addr_list.txt, in the same folder as the python script 
 richard at thelimen dot com
 """
 
